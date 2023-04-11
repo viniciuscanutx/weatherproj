@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="/css/style.css">
+    <!-- Font-Awesome (Icons) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" 
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" 
+    crossorigin="anonymous" 
+    referrerpolicy="no-referrer"/>
+    <!-- Script do JS -->
+    <script src="/js/script,js"></script>
+    <title>Weather</title>
+</head>
+<body>
+    <div class="container">
+        <div class="form">
+            <h3>Consulte o clima de uma cidade:</h3>
+            <div class="form-input-container">
+                <input type="text" 
+                placeholder="Digite o nome da cidade:" 
+                id="city-input">
+                </input>
+                <button id="search">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </button>
+            </div>
+        </div>
+        <div id="weather-data">
+            <h2>
+                <i class="fa-solid fa-location-dot"></i>
+                <span id="city">Maceíó</span>
+                <img src=""  id="country"></img>
+            </h2>
+            <p id="temperature"><span>38</span>&deg;C</p>
+        </div>
+    </div>
+</body>
+</html>
