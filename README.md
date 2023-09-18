@@ -15,3 +15,7 @@
 
 
 # Screenshots do Projeto
+
+<img src='https://raw.githubusercontent.com/viniciuscanutx/weatherproj/master/Screenshot_1.png' width=800px />
+
+<img src='https://raw.githubusercontent.com/viniciuscanutx/weatherproj/master/Screenshot_2.png' width=800px />
