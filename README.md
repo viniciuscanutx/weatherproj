@@ -7,11 +7,11 @@
 
 # APIS Usadas 
 
-### Unsplash API
+#### Unsplash API
 
-### OpenWeather API 
+#### OpenWeather API 
 
-### CountryFlags API
+#### CountryFlags API
 
 
 # Screenshots do Projeto
